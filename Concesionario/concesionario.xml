@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE concesionario SYSTEM "concesionario.dtd">
+<concesionario>
+    <coche>
+        <codigoCoche>1HGBH41JXMN109186</codigoCoche>
+        <marca>Renault</marca>
+        <modelo>Clio Williams</modelo>
+        <matricula>CA 8976 AH</matricula>
+        <potencia>150cv</potencia>
+        <plazas>5</plazas>
+        <numPuertas>3</numPuertas>
+    </coche>
+    <coche>
+        <codigoCoche>2DFJK56KJAS784624</codigoCoche>
+        <marca>Peugeot</marca>
+        <modelo>206 XS</modelo>
+        <matricula>CO 0145 BG</matricula>
+        <potencia>110cv</potencia>
+        <plazas>5</plazas>
+        <numPuertas>3</numPuertas>
+    </coche>
+    <coche>
+        <codigoCoche>3LPTU38GDYI027843</codigoCoche>
+        <marca>Seat</marca>
+        <modelo>León Cupra R</modelo>
+        <matricula>6589 CGD</matricula>
+        <potencia>225cv</potencia>
+        <plazas>5</plazas>
+        <numPuertas>5</numPuertas>
+    </coche>
+    <coche>
+        <codigoCoche>4MENT15LFOS370123</codigoCoche>
+        <marca>Volkswagen</marca>
+        <modelo>Golf IV R32</modelo>
+        <matricula>2510 BZK</matricula>
+        <potencia>241cv</potencia>
+        <plazas>5</plazas>
+        <numPuertas>3</numPuertas>
+    </coche>
+    <coche>
+        <codigoCoche>5DRIP29FFEW997345</codigoCoche>
+        <marca>Citroën</marca>
+        <modelo>Saxo VTS 16v</modelo>
+        <matricula>B 9039 UU</matricula>
+        <potencia>118cv</potencia>
+        <plazas>5</plazas>
+        <numPuertas>3</numPuertas>
+    </coche>
+</concesionario>
