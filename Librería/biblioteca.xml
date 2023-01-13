@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+<biblioteca>
+    <libro> 
+        <autor>Carlos Ruiz Zafón</autor>
+        <fechaPublicacion>03/04/2012</fechaPublicacion>
+        <titulo>Marina</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-00434-9</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Sandra Barneda</autor>
+        <fechaPublicacion>31/08/2022</fechaPublicacion>
+        <titulo>Un óceano para llegar a ti</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-26240-4</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Maria Dueñas</autor>
+        <fechaPublicacion>29/06/2022</fechaPublicacion>
+        <titulo>Sira</titulo>
+        <editorial>Planeta</editorial>
+        <ISBN>978-84-08-26056-1</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Paula Hawkins</autor>
+        <fechaPublicacion>26/10/2022</fechaPublicacion>
+        <titulo>La chica del tren</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-26371-5</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Edith Eger</autor> 
+        <fechaPublicacion>26/10/2022</fechaPublicacion>
+        <titulo>La bailarina de Auschwitz</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-26372-2</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Alice Kellen</autor>
+        <fechaPublicacion>27/01/2021</fechaPublicacion>
+        <titulo>Nosotros en la Luna</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-23738-9</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Dolly Alderton</autor> 
+        <fechaPublicacion>03/03/2021</fechaPublicacion>
+        <titulo>Todo lo que sé sobre el amor</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-23738-9</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Megan Maxwell</autor> 
+        <fechaPublicacion>26/10/2022</fechaPublicacion>
+        <titulo>Los principes azules tambien destiñen</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-26370-8</ISBN>
+    </libro>
+
+    <libro> 
+        <autor>Carmen Mola</autor> 
+        <fechaPublicacion>31/08/2022</fechaPublicacion>
+        <titulo>La Bestia</titulo>
+        <editorial>Planeta</editorial>
+        <ISBN>978-84-08-26284-8</ISBN>
+    </libro>
+
+    <libro>
+        <autor>Torcuato Luca de Tena</autor> 
+        <fechaPublicacion>21/09/2022</fechaPublicacion>
+        <titulo>Los renglones torcidos de Dios</titulo>
+        <editorial>Booket</editorial>
+        <ISBN>978-84-08-26233-6</ISBN>
+    </libro>
+</biblioteca>
