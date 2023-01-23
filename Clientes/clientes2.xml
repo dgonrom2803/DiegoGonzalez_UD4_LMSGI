@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="clientes.xsd">
+    <sede>
+        <codigoSede>A1234567</codigoSede>
+        <direccion>C/ Federico, 4</direccion>
+        <nomEmpleado>Antonio García</nomEmpleado>
+        <fechaAlta>2022-04-06</fechaAlta>
+        <descCliente>Solvente</descCliente>
+        <cliente> 
+            <codigoCliente>ABC-123</codigoCliente>
+            <numero>1</numero>
+            <coste>350</coste>
+            <resumen>Muy frágil</resumen>
+            <plazo>4</plazo>
+        </cliente>
+    </sede>
+    <sede> 
+        <codigoSede>B2244667</codigoSede>
+        <direccion>C/ Juan Carlos I, 34</direccion>
+        <nomEmpleado>Luis Delgado</nomEmpleado>
+        <fechaAlta>2022-08-12</fechaAlta>
+        <descCliente>Solvente</descCliente>
+        <cliente>
+            <codigoCliente>CDE-456</codigoCliente>
+            <numero>4</numero>
+            <coste>100</coste>
+            <resumen>Ligero</resumen>
+            <plazo>30</plazo>
+        </cliente>
+    </sede>
+    <sede> 
+        <codigoSede>C1133557</codigoSede>
+        <direccion>C/ Tomillo, 6</direccion>
+        <nomEmpleado>Rafael Domínguez</nomEmpleado>
+        <fechaAlta>2022-03-01</fechaAlta>
+        <descCliente>Solvente</descCliente>
+        <cliente> 
+            <codigoCliente>FGH-789</codigoCliente>
+            <numero>12</numero>
+            <coste>50</coste>
+            <resumen>Pesado</resumen>
+            <plazo>15</plazo>
+        </cliente>
+    </sede>
+    <sede> 
+        <codigoSede>D4561237</codigoSede>
+        <direccion>C/ Carlos Sainz, 55</direccion>
+        <nomEmpleado>Fernando Alonso</nomEmpleado>
+        <fechaAlta>2022-09-02</fechaAlta>
+        <descCliente>Solvente</descCliente>
+        <cliente>
+            <codigoCliente>AWC-333</codigoCliente>
+            <numero>2</numero>
+            <coste>120</coste>
+            <resumen>Cómodo de usar</resumen>
+            <plazo>10</plazo>
+        </cliente>
+    </sede>
+    <sede> 
+        <codigoSede>E7654321</codigoSede>
+        <direccion>C/ Oviedo, 1</direccion>
+        <nomEmpleado>Antonio Lobato</nomEmpleado>
+        <fechaAlta>2022-05-07</fechaAlta>
+        <descCliente>Solvente</descCliente>
+        <cliente> 
+            <codigoCliente>DZN-189</codigoCliente>
+            <numero>16</numero>
+            <coste>75</coste>
+            <resumen>Consistente</resumen>
+            <plazo>8</plazo>
+        </cliente>
+    </sede>
+</clientes>

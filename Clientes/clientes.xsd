@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        version="0.1" xml:lang="es">
+    <xs:element name="clientes" type="clienteDatos">
+        <xs:complexType name="clienteDatos">
+            <xs:sequence>
+                <xs:element name="sede" type = "sedeDatos" maxOccurs="unbounded">
+                    <xs:complexType name = "sedeDatos">
+                        <xs:sequence>
+                            <xs:element name="direccion" type="xs:string"/>
+                            <xs:element name="cliente" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
