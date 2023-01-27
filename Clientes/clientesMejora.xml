@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE clientes SYSTEM "clientes.dtd">
-<clientes>
-    <sede> 
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="clientesMejora.xsd">
+    <sede>
         <codigoSede>A1234567</codigoSede>
         <direccion>C/ Federico, 4</direccion>
         <nomEmpleado>Antonio García</nomEmpleado>
@@ -10,12 +10,14 @@
         <cliente> 
             <codigoCliente>ABC-123</codigoCliente>
             <numero>1</numero>
-            <coste>350</coste>
-            <resumen>Muy frágil</resumen>
-            <plazo>4</plazo>
+            <vivienda ID="001">
+                <coste>350</coste>
+                <resumen>Muy frágil</resumen>
+                <plazo>4</plazo>
+            </vivienda>
         </cliente>
     </sede>
-    <sede>
+    <sede> 
         <codigoSede>B2244667</codigoSede>
         <direccion>C/ Juan Carlos I, 34</direccion>
         <nomEmpleado>Luis Delgado</nomEmpleado>
@@ -24,12 +26,14 @@
         <cliente>
             <codigoCliente>CDE-456</codigoCliente>
             <numero>4</numero>
-            <coste>100</coste>
-            <resumen>Ligero</resumen>
-            <plazo>30</plazo>
+            <vivienda ID="002">
+                <coste>100</coste>
+                <resumen>Ligero</resumen>
+                <plazo>30</plazo>
+            </vivienda>
         </cliente>
     </sede>
-    <sede>
+    <sede> 
         <codigoSede>C1133557</codigoSede>
         <direccion>C/ Tomillo, 6</direccion>
         <nomEmpleado>Rafael Domínguez</nomEmpleado>
@@ -38,12 +42,14 @@
         <cliente> 
             <codigoCliente>FGH-789</codigoCliente>
             <numero>12</numero>
-            <coste>50</coste>
-            <resumen>Pesado</resumen>
-            <plazo>15</plazo>
+            <vivienda ID="003">
+                <coste>50</coste>
+                <resumen>Pesado</resumen>
+                <plazo>15</plazo>
+            </vivienda>
         </cliente>
     </sede>
-    <sede>
+    <sede> 
         <codigoSede>D4561237</codigoSede>
         <direccion>C/ Carlos Sainz, 55</direccion>
         <nomEmpleado>Fernando Alonso</nomEmpleado>
@@ -52,12 +58,14 @@
         <cliente>
             <codigoCliente>AWC-333</codigoCliente>
             <numero>2</numero>
-            <coste>120</coste>
-            <resumen>Cómodo de usar</resumen>
-            <plazo>10</plazo>
+            <vivienda ID="004">
+                <coste>120</coste>
+                <resumen>Cómodo de usar</resumen>
+                <plazo>10</plazo>
+            </vivienda>
         </cliente>
     </sede>
-    <sede>
+    <sede> 
         <codigoSede>E7654321</codigoSede>
         <direccion>C/ Oviedo, 1</direccion>
         <nomEmpleado>Antonio Lobato</nomEmpleado>
@@ -66,9 +74,11 @@
         <cliente> 
             <codigoCliente>DZN-189</codigoCliente>
             <numero>16</numero>
-            <coste>75</coste>
-            <resumen>Consistente</resumen>
-            <plazo>8</plazo>
+            <vivienda ID="005">
+                <coste>75</coste>
+                <resumen>Consistente</resumen>
+                <plazo>8</plazo>
+            </vivienda>
         </cliente>
     </sede>
 </clientes>

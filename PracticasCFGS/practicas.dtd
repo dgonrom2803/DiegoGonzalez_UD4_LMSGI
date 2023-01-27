@@ -1,0 +1,5 @@
+<!ELEMENT practicas (alumno*)>
+<!ELEMENT alumno (NIF, resultado, observaciones, editorial, IP, MAC)>
+<!ELEMENT NIF (#PCDATA)>
+<!ELEMENT resultado (#PCDATA)>
+<!ELEMENT observaciones (#PCDATA)>
