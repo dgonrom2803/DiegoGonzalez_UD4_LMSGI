@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE practicas SYSTEM "practicas.dtd">
 <practicas>
-    <alumno>
-
-    </alumno>
+	<alumno>
+		<nif>95555555K</nif>
+		<resultado>Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>20</anhos>años y vive en <poblacion>Lugo</poblacion></observaciones>
+		<ip>172.168.1.1</ip>
+	</alumno>
+	<alumno>
+		<nif>44444444A</nif>
+		<resultado>No Apto</resultado>
+		<mac>56:FE:45:CA:45:12</mac>
+	</alumno>
+	<!-- Ejemplo Real de mejora-->
+	<alumno>
+		<nif>43097635D</nif>
+		<resultado>Apto</resultado>
+		<observaciones>Este alumno tiene <anhos>22</anhos>años y vive en <poblacion>Ubrique</poblacion></observaciones>
+		<ip>195.168.0.0</ip>
+	</alumno>
 </practicas>
