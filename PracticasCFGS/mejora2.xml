@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formulauno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="mejora.xsd">
+	<piloto>
+		<nombre>Fernando Alonso</nombre>
+		<codigoPiloto>95555555K</codigoPiloto>
+		<palmares>Campeón</palmares>
+		<observaciones>Este piloto tiene <anhos>41</anhos>y es de<pais>España</pais></observaciones>
+		<twitter>@alo_oficial</twitter>
+		</piloto>
+	<piloto>
+		<nombre>Charles Leclerc</nombre>
+		<codigoPiloto>44444444A</codigoPiloto>
+		<palmares>No Campeón</palmares>
+		<instagram>@charles_leclerc</instagram>
+	</piloto>
+</formulauno>

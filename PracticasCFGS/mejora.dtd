@@ -1,0 +1,10 @@
+<!ELEMENT formulauno (piloto*)>
+<!ELEMENT piloto (nombre, codigoPiloto, palmares, observaciones?, (instagram | twitter))>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT codigoPiloto (#PCDATA)>
+<!ELEMENT palmares (#PCDATA)>
+<!ELEMENT instagram (#PCDATA)>
+<!ELEMENT twitter (#PCDATA)>
+<!ELEMENT observaciones ANY>
+<!ELEMENT anhos (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
