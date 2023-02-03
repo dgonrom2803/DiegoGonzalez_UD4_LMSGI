@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE modulos SYSTEM "modulos.dtd">
+<modulos>
+    <modulo>
+        <nombre>Inglés</nombre>
+        <contenidos>
+            <unidaddidactica numero = "1">
+                <tipo>Gramática</tipo>
+                <descripcion>El verbo to Be y todas sus conjugaciones</descripcion>
+            </unidaddidactica>
+            <unidaddidactica numero = "2">
+                <tipo>Past Simple</tipo>
+                <descripcion>Uso del pasado simple tanto en verbos regulares como irregulares</descripcion>
+            </unidaddidactica>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Matemáticas</nombre>
+        <contenidos>
+            <unidaddidactica numero = "1">
+                <tipo>Ecuaciones Simples</tipo>
+                <descripcion>Resolución de ecuaciones simples e introducción a las de segundo grado</descripcion>
+            </unidaddidactica>
+            <unidaddidactica numero = "2">
+                <tipo>Matrices</tipo>
+                <descripcion>Resolución de matrices</descripcion>
+            </unidaddidactica>
+        </contenidos>
+    </modulo>
+</modulos>
