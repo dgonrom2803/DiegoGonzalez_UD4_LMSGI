@@ -1,0 +1,16 @@
+<!ELEMENT editorial (cabecera,informe)>
+<!ELEMENT cabecera (titulo, contenido, descripcion, fecha_informe)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT contenido (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT fecha_informe (#PCDATA)>
+<!ELEMENT informe (region*, trimestre, libros_vendidos)>
+<!ELEMENT region ((norte | centro | sur))>
+<!ELEMENT norte (numtrimestre*)>
+<!ELEMENT centro (numtrimestre*)>
+<!ELEMENT sur (numtrimestre*)>
+<!ELEMENT numtrimestre (numvendidos)>
+    <!ATTLIST numtrimestre numero CDATA #REQUIRED>
+<!ELEMENT numvendidos (#PCDATA)>
+<!ELEMENT trimestre (#PCDATA)>
+<!ELEMENT libros_vendidos (#PCDATA)>

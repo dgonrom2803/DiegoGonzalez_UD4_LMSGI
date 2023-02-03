@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE editorial SYSTEM "editorial.dtd">
+<editorial>
+    <cabecera>
+        <titulo>Ediciones Aranda</titulo>
+        <contenido>Informe regional de ventas</contenido>
+        <descripcion> Informe de ventas para las regiones Norte, Centro y Sur</descripcion>
+        <fecha_informe>30/12/2009</fecha_informe>
+    </cabecera>
+    <informe>
+        <region>
+            <norte>
+                <numtrimestre numero = "1">
+                    <numvendidos>24000</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "2">
+                    <numvendidos>38600</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "3">
+                    <numvendidos>NO_INFO</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "4">
+                    <numvendidos>NO_INFO</numvendidos>
+                </numtrimestre>
+            </norte>
+        </region>
+        <region>
+            <centro>
+                <numtrimestre numero = "1">
+                    <numvendidos>NO_INFO</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "2">
+                    <numvendidos>16080</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "3">
+                    <numvendidos>25000</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "4">
+                    <numvendidos>29000</numvendidos>
+                </numtrimestre>
+            </centro>
+        </region>
+        <region>
+            <sur>
+                <numtrimestre numero = "1">
+                    <numvendidos>27000</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "2">
+                    <numvendidos>31400</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "3">
+                    <numvendidos>40100</numvendidos>
+                </numtrimestre>
+                <numtrimestre numero = "4">
+                    <numvendidos>30000</numvendidos>
+                </numtrimestre>
+            </sur>
+        </region>
+        <trimestre>Trimestre</trimestre>
+        <libros_vendidos>Libros Vendidos</libros_vendidos>
+    </informe>
+</editorial>
